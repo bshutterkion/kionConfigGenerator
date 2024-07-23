@@ -1,0 +1,3 @@
+Account Alias,Account Number,CAR,Access Type,Region
+sandbox,111122223333,Admin,web,us-gov-west-1
+sandbox,111122223333,Admin,,  # Access Type defaults to 'cli' and Region is optional
